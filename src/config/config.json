@@ -1,0 +1,111 @@
+{
+    "navbar": {
+        "logo": {
+            "highlightedText": "Bly",
+            "plainText": "Wood"
+        },
+        "links": [
+            { "label": "Inicio", "href": "#home" },
+            { "label": "Acerca de", "href": "#about" },
+            { "label": "Información", "href": "#info" },
+            { "label": "Lore", "href": "#lore" },
+            { "label": "Streamers", "href": "#streamers" },
+            {"label": "Staff","href": "#staff-section"}  
+        ]
+    },
+    "hero": {
+        "headline": "Tu historia de rol comienza aquí",
+        "description": "BlyWood es un servidor de rol de GTA V de primer nivel. Únete a una comunidad de miles de jugadores apasionados y dale vida a tu personaje. Muéstrale al mundo de qué estás hecho.",
+        "cta": "Explora ahora"
+    },
+    "about": {
+        "items": [
+            {
+                "title": "Una Aventura de Roleplay Inigualable",
+                "icon": "IconDiamond",
+                "description": "Adéntrate en nuestro servidor de RP en FiveM y vive una aventura de rol donde tu creatividad no tiene límites. Forja tu personaje, crea tu narrativa y comparte momentos épicos con otros. Las posibilidades son infinitas, ¡tu viaje comienza hoy!",
+                "buttonText": "Únete al Servidor",
+                "buttonClass": "glass-button glass-button_primary"
+            },
+            {
+                "title": "Un Universo Creado por la Comunidad",
+                "icon": "IconArrowBadgeDown",
+                "description": "Sumérgete en un mundo que evoluciona con cada jugador. Ya sea que busques la acción de los robos, el drama o la tranquilidad de la vida diaria, nuestra comunidad ofrece un espacio para cada estilo. ¡Ven a dejar tu marca con nosotros!",
+                "buttonText": "Descubre Más",
+                "buttonClass": "glass-button glass-button_primary"
+            },
+            {
+                "title": "Da Forma a tu Propia Leyenda",
+                "icon": "IconHeart",
+                "description": "Construye tu propia historia en un mundo que cambia constantemente. Con un rol realista y un profundo desarrollo de personajes, cada decisión que tomas define tu camino. ¡Forma parte de nuestra comunidad de narradores y haz que tu historia sea inolvidable!",
+                "buttonText": "Empieza a Rolear",
+                "buttonClass": "glass-button glass-button_primary"
+            },
+            {
+                "title": "Un Mapa Dinámico Lleno de Vida",
+                "icon": "IconMapPin",
+                "description": "Explora una ciudad vibrante con eventos, ubicaciones y secretos por descubrir. Nuestro mapa, que se actualiza continuamente, asegura que siempre habrá algo nuevo y emocionante esperándote.",
+                "buttonText": "Explora el Mapa",
+                "buttonClass": "glass-button glass-button_primary"
+            },
+            {
+                "title": "Una Comunidad Fuerte y Unida",
+                "icon": "IconUsers",
+                "description": "Únete a un grupo de jugadores apasionados que construyen el mundo juntos. Tanto si eres un jugador nuevo como un veterano, nuestra comunidad amigable te ayudará a encontrar tu lugar en esta gran historia colectiva.",
+                "buttonText": "Conoce a la Gente",
+                "buttonClass": "glass-button glass-button_primary"
+            },
+            {
+                "title": "El Rol se Encuentra con las Mecánicas",
+                "icon": "IconDeviceGamepad2",
+                "description": "Experimenta un rol inmersivo potenciado por mecánicas de juego bien pensadas. Desde trabajos únicos hasta inventarios detallados, cada sistema está diseñado para enriquecer la experiencia de tu personaje.",
+                "buttonText": "Ver Funcionalidades",
+                "buttonClass": "glass-button glass-button_primary"
+            }
+        ]
+    },
+    "info": {
+        "items": [
+            {
+                "imageSrc": "1.jpg",
+                "title": "Conoce la Normativa del Servidor",
+                "description": "Para garantizar la mejor experiencia de rol para todos, nuestro servidor cuenta con una normativa clara. Conocer las reglas te ayudará a sumergirte en un ambiente de juego justo y divertido.",
+                "buttonText": "Ver Normativa",
+                "linkHref": "https://blywood.gitbook.io/normativa-bly-wood",
+                "imageRight": false
+            },
+            {
+                "imageSrc": "2.jpg",
+                "title": "Tu Próxima Aventura Espera",
+                "description": "Ya sea que te atraigan las persecuciones a alta velocidad o la investigación de crímenes, Los Santos te ofrece un sinfín de experiencias de RP. Colabora con otros jugadores y sumérgete en un mundo de GTA V lleno de acción y profundidad.",
+                "buttonText": "¡Únete Ahora!",
+                "linkHref": "fivem://connect/TU_DIRECCIÓN_IP_O_DOMINIO",
+                "imageRight": true
+            },
+            {
+                "imageSrc": "3.jpg",
+                "title": "Asume el Rol de un Héroe Urbano",
+                "description": "Como agente de la ley, tu misión es proteger a los ciudadanos, capturar criminales y traer la justicia a la ciudad. ¡Sé el héroe que Los Santos necesita en un entorno de rol de GTAV emocionante y detallado!",
+                "buttonText": "Conviértete en un Héroe",
+                "linkHref": "ENLACE_A_LA_PÁGINA_DE_HÉROES",
+                "imageRight": false
+            }
+        ]
+    },
+    "footer": {
+        "copyright": "© {{currentYear}} BlyWood RP",
+        "logoSrc": "/logo2.png",
+        "contact": {
+            "email": "contacto@blywood.com",
+            "emailHref": "mailto:contacto@blywood.com",
+            "forum": "foro-blywood.com"
+
+        },
+        "disclaimer1": "Este proyecto no tiene afiliación ni respaldo de Rockstar North, Take-Two Interactive, o cualquier otro titular de derechos. Todas las marcas comerciales pertenecen a sus respectivos dueños.",
+        "disclaimer2": "Este servidor fue creado por y para la comunidad. Somos desarrolladores independientes y no representamos a ningún editor o plataforma oficial de videojuegos.",
+        "creator": {
+            "name": "Wood",
+            "highlightColor": "#f92763"
+        }
+    }
+}
