@@ -21,7 +21,7 @@ const Streamers = () => {
             color: "#0ea5e9",
             benefits: [
                 "<strong>Vehículo de Apoyo:</strong> Un vehículo de clase C exclusivo.",
-                "<strong>Garaje Personal:</strong> Acceso a un garaje de 5 espacios."
+                "<strong>Objeto Exclusivo:</strong> Accesorio equipable."
             ]
         },
         {
@@ -38,7 +38,7 @@ const Streamers = () => {
             color: "#ef4444",
             benefits: [
                 "<strong>Vehículo de Lujo:</strong> Un vehículo de clase A asignado.",
-                "<strong>Garaje de Élite:</strong> Un garaje más grande de 10 espacios.",
+                "<strong>Propiedad Exclusiva:</strong> Un apartamento o propiedad de lujo en la ciudad.",
                 "<strong>Tramas Exclusivas:</strong> Participación en historias de alto nivel."
             ]
         }
